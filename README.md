@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Nishikantprasad
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning AI
+- ✨ I love playing football and PubG
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me at Nishikantprasad999@gmail.com
 
