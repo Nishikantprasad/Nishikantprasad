@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nishikantprasad
--  💻 Interested in Coding with DSA
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning AI
+- 💻 I am a Software Developer 
+- 👀 I’m interested in Software Development
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me at Nishikantprasad999@gmail.com
 
